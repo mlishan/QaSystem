@@ -1,0 +1,184 @@
+[09-Sep-2021 08:35:40 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:35:41 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:36:49 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:48:05 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:48:09 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:49:42 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:54:12 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 08:55:55 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 09:05:40 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 09:10:16 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 09:28:07 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 09:28:45 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 09:29:21 Europe/London] PHP Fatal error:  Uncaught Error: Failed opening required '/home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/../vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 34
+[09-Sep-2021 12:50:17 Europe/London] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct()
+#1 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build()
+#2 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve()
+#3 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve()
+#4 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make()
+#5 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(1420): Illuminate\Foundation\Application->make()
+#6 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(457): Illuminate\Container\Container->offsetGet()
+#7 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\Log\LogManager->getDefaultDriver()
+#8 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(555): Illuminate\Log\LogManager->driver()
+#9 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#10 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(414): Illuminate\Foundation\Exceptions\Handler->report()
+#11 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(112): Illuminate\Foundation\Http\Kernel->reportException()
+#12 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#13 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [config] does not exist. in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php:875
+Stack trace:
+#0 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build()
+#1 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve()
+#2 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve()
+#3 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make()
+#4 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(1420): Illuminate\Foundation\Application->make()
+#5 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(457): Illuminate\Container\Container->offsetGet()
+#6 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\Log\LogManager->getDefaultDriver()
+#7 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(555): Illuminate\Log\LogManager->driver()
+#8 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#9 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(414): Illuminate\Foundation\Exceptions\Handler->report()
+#10 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(112): Illuminate\Foundation\Http\Kernel->reportException()
+#11 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[09-Sep-2021 12:50:19 Europe/London] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct()
+#1 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build()
+#2 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve()
+#3 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve()
+#4 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make()
+#5 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(1420): Illuminate\Foundation\Application->make()
+#6 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(457): Illuminate\Container\Container->offsetGet()
+#7 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\Log\LogManager->getDefaultDriver()
+#8 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(555): Illuminate\Log\LogManager->driver()
+#9 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#10 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(414): Illuminate\Foundation\Exceptions\Handler->report()
+#11 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(112): Illuminate\Foundation\Http\Kernel->reportException()
+#12 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#13 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [config] does not exist. in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php:875
+Stack trace:
+#0 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build()
+#1 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve()
+#2 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve()
+#3 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make()
+#4 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(1420): Illuminate\Foundation\Application->make()
+#5 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(457): Illuminate\Container\Container->offsetGet()
+#6 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\Log\LogManager->getDefaultDriver()
+#7 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(555): Illuminate\Log\LogManager->driver()
+#8 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#9 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(414): Illuminate\Foundation\Exceptions\Handler->report()
+#10 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(112): Illuminate\Foundation\Http\Kernel->reportException()
+#11 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[09-Sep-2021 12:50:23 Europe/London] PHP Fatal error:  Uncaught ReflectionException: Class "config" does not exist in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php:873
+Stack trace:
+#0 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(873): ReflectionClass->__construct()
+#1 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build()
+#2 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve()
+#3 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve()
+#4 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make()
+#5 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(1420): Illuminate\Foundation\Application->make()
+#6 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(457): Illuminate\Container\Container->offsetGet()
+#7 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\Log\LogManager->getDefaultDriver()
+#8 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(555): Illuminate\Log\LogManager->driver()
+#9 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#10 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(414): Illuminate\Foundation\Exceptions\Handler->report()
+#11 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(112): Illuminate\Foundation\Http\Kernel->reportException()
+#12 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#13 {main}
+
+Next Illuminate\Contracts\Container\BindingResolutionException: Target class [config] does not exist. in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php:875
+Stack trace:
+#0 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(754): Illuminate\Container\Container->build()
+#1 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(841): Illuminate\Container\Container->resolve()
+#2 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(692): Illuminate\Foundation\Application->resolve()
+#3 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(826): Illuminate\Container\Container->make()
+#4 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php(1420): Illuminate\Foundation\Application->make()
+#5 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(457): Illuminate\Container\Container->offsetGet()
+#6 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(98): Illuminate\Log\LogManager->getDefaultDriver()
+#7 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Log/LogManager.php(555): Illuminate\Log\LogManager->driver()
+#8 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(252): Illuminate\Log\LogManager->error()
+#9 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(414): Illuminate\Foundation\Exceptions\Handler->report()
+#10 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(112): Illuminate\Foundation\Http\Kernel->reportException()
+#11 /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php(52): Illuminate\Foundation\Http\Kernel->handle()
+#12 {main}
+  thrown in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 875
+[14-Oct-2021 09:36:34 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[14-Oct-2021 09:36:45 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[14-Oct-2021 09:37:51 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[14-Oct-2021 14:29:03 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:17:51 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:18:01 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:18:06 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:18:09 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:18:16 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:18:58 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:19:04 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[31-Oct-2021 10:19:07 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 08:53:54 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 08:53:56 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 10:21:59 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 10:22:24 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 10:23:40 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 10:24:42 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 10:24:48 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 10:24:52 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:01:49 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:03:43 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:04:19 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:08:31 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:12:13 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:12:20 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:12:28 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:12:30 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[01-Nov-2021 11:57:56 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[25-Nov-2021 13:08:02 Europe/London] PHP Parse error:  syntax error, unexpected T_CLASS, expecting T_STRING or T_VARIABLE or '$' in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystem/index.php on line 49
+[21-Jan-2022 09:06:03 Europe/London] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/composer/platform_check.php on line 24
+[22-Apr-2022 12:01:29 Europe/London] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/composer/platform_check.php on line 24
+[10-Nov-2022 07:39:36 Europe/London] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 7.2.34. in /home/jpwebhos/public_html/dev.jpwebhosting.co.uk/qasystemfiles/vendor/composer/platform_check.php on line 24
